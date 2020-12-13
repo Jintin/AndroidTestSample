@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTestSample</string>
+    <string name="submit">Login</string>
+    <string name="account">Account</string>
+    <string name="password">Password</string>
+    <string name="login_success">Login success</string>
+    <string name="login_fail">Login fail</string>
+</resources>
